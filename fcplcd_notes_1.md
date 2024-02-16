@@ -68,7 +68,7 @@ It consists of n sequents as premises, and a concluding sequent.
 Rules for intuitionistic Natural deduction. Intuitionistic natural deduction is a formal system for constructing proofs in intuitionistic logic, which is a branch of logic that emphasizes the concept of constructivism.
 
 #### Introduction Rules
- Used to introduce new fromulas intro the proof
+ Used to introduce new formulas intro the proof
 
 - Axiom introduction (ax): Allows an axiom into the proof.
 
